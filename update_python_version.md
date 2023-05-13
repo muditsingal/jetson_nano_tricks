@@ -9,6 +9,6 @@ or use
 
 4. sudo update-alternatives  --set python3 /usr/bin/python3.9
 
-
-
+### Also install the following:
+sudo apt install python3.9-distutils
 
