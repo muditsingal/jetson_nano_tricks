@@ -1,5 +1,8 @@
 ## Follow the below process to set the default version of python3 as python3.9 in jetson nano
 
+Firstly, install the python version that you need:
+For python3.9 install using: **sudo apt-get install python3.9**
+
 1. sudo update-alternatives --config python3
 2. sudo update-alternatives --install /usr/bin/python3 python /usr/bin/python3.9 1
 3. sudo update-alternatives --install /usr/bin/python3 python /usr/bin/python3.6 2
