@@ -12,3 +12,8 @@ or use
 ### Also install the following:
 sudo apt install python3.9-distutils
 
+Useful links:
+
+https://stackoverflow.com/questions/71034111/how-to-set-default-python3-to-python-3-9-instead-of-python-3-8-in-ubuntu-20-04-l
+
+https://askubuntu.com/questions/1292972/importerror-cannot-import-name-sysconfig-from-distutils-usr-lib-python3-9
